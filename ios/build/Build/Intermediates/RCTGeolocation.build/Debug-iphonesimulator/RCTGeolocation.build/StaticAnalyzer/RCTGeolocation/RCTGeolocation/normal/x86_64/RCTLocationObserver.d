@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \

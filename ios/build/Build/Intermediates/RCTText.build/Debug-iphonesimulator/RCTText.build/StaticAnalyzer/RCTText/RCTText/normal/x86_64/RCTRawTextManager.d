@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTRawTextManager.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTRawTextManager.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTRawTextManager.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTRawTextManager.h \
   ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
   ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
   ../../React/Layout/Layout.h ../../React/Views/RCTAnimationType.h \
@@ -12,5 +12,5 @@ dependencies: \
   ../../React/Base/RCTBridgeDelegate.h ../../React/Base/RCTFrameUpdate.h \
   ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTJavaScriptExecutor.h \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
   ../../React/Views/RCTShadowView.h ../../React/Base/RCTRootView.h

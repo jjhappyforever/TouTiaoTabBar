@@ -2,137 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/plus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-c787d1a6205c588467ea1e7d57612b596e46715c.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-93e6021cfb0aec81b3e599d2f9738e3a2d9695c4.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-818198bc25b8099bc566e705d653fc8ae73803c8.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-234091590ca8cc5ca0489a3b80f0a57182de6a4c.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-4e4a52584bb3ccad01f918091a025f150360f96a.jar" />
-    </item>
-    <item
         jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
         <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-cba887c5a46183e51e6cc677db2c3ffb1d1fd7fb.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-e5f1b105f552d52a7b44edd6f137771ae030fb66.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-8c2f32325f61c6554e37edb4d82fa862fcf4d704.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-9b28f3b0f58ba072984272508fb49ae1f579ede0.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-676f9bc8637e7d3e665c23df92a1404975e4cd89.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.28.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e692405777839befca453a23ecc89fce2cebd058">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-bce8277fe2b50dbac44a34f8f6a93533b168d651.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-1430af305fc9434c7203e2cdf52ab231399e3d90.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-b4bf855f38660154bdd0d53d48a350bef94fabb1.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-1c509483301d4ed63886cc663e9ce7784dbf0ec9.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-40a9c18b00e5580e9c5d1e223d2d292405e3f47c.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-14cd55be2627ae9536370ae8c73429b30fe1d8fa.jar" />
-    </item>
-    <item
-        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-87181328a938654f3d5106980ebed2523a60caa4.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-24074a87c385b3ba6e5b013142ab1f0ddfd60a55.jar" />
-    </item>
-    <item
-        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-1e6e6effc77e8deacbe53425f7e30b0ce2671ffa.jar" />
     </item>
     <item
         jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
@@ -142,11 +16,221 @@
         <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-38dc09e6a863b586061ae92a84b76ba33f7b8cce.jar" />
     </item>
     <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-bf1ccd1955a81c918813df24bf57565879b0749a.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-8c2f32325f61c6554e37edb4d82fa862fcf4d704.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.28.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b63941892634511f96bdb6e49a3aa62292fd5d90">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-517e475fb69d462e89bc4ddefb6462d746e53192.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-fe6492c7af429ae1e7d2319b022c219dce53ec73.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.28.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e692405777839befca453a23ecc89fce2cebd058">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-bce8277fe2b50dbac44a34f8f6a93533b168d651.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-57adf60992ad30dd2f070fe14efe259f0b3fc7bc.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-4e4a52584bb3ccad01f918091a025f150360f96a.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-8aca633a06994c9fa273604f5f407b79a97e2624.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.28.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e692405777839befca453a23ecc89fce2cebd058">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-a2cc7f5c237de9e2154e79f1f4abe39f2b1f468e.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-9b28f3b0f58ba072984272508fb49ae1f579ede0.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-818198bc25b8099bc566e705d653fc8ae73803c8.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-1c509483301d4ed63886cc663e9ce7784dbf0ec9.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-676f9bc8637e7d3e665c23df92a1404975e4cd89.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-b4bf855f38660154bdd0d53d48a350bef94fabb1.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-bfe93d020b062674485b53c9680d660156df1f1b.jar" />
+    </item>
+    <item
         jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.28.0/jars/libs/infer-annotations-1.5.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="b63941892634511f96bdb6e49a3aa62292fd5d90">
         <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-cf9428382141a62d28a705d7338dd631a3125816.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-87fa8244ea70baf71b0058e3e98aa148eba9a05e.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-e5f1b105f552d52a7b44edd6f137771ae030fb66.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-9a9a3c6146a7f640e9c66963c20a52eb1ce46322.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-24074a87c385b3ba6e5b013142ab1f0ddfd60a55.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-87181328a938654f3d5106980ebed2523a60caa4.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-6b1afca976ab9e7e1d340e8644fa85f5756cbb13.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-56181a6f7bc0450b3dea86bd8d16c0ba190f729c.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-1430af305fc9434c7203e2cdf52ab231399e3d90.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-234091590ca8cc5ca0489a3b80f0a57182de6a4c.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-c787d1a6205c588467ea1e7d57612b596e46715c.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-14cd55be2627ae9536370ae8c73429b30fe1d8fa.jar" />
+    </item>
+    <item
+        jar="/Users/plus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-1e6e6effc77e8deacbe53425f7e30b0ce2671ffa.jar" />
+    </item>
+    <item
+        jar="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/plus/TouTiaoTabBar/android/app/build/intermediates/pre-dexed/debug/classes-2e1c16a50b09ca3262a2644c96a03e51b5884d10.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-93e6021cfb0aec81b3e599d2f9738e3a2d9695c4.jar" />
+    </item>
+    <item
+        jar="/Users/plus/Documents/toutiao/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/plus/Documents/toutiao/android/app/build/intermediates/pre-dexed/debug/classes-40a9c18b00e5580e9c5d1e223d2d292405e3f47c.jar" />
     </item>
 
 </items>

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTConvert.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTAnimationType.h \
   ../../React/Views/RCTBorderStyle.h \

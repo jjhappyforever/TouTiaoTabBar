@@ -6,7 +6,7 @@
 <string>Apple LLVM version 7.3.0 (clang-703.0.29)</string>
  <key>files</key>
  <array>
-  <string>/Users/plus/Documents/toutiao/node_modules/react-native/React/Modules/RCTUIManager.m</string>
+  <string>/Users/plus/TouTiaoTabBar/node_modules/react-native/React/Modules/RCTUIManager.m</string>
  </array>
  <key>diagnostics</key>
  <array>

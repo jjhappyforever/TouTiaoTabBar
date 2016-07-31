@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \

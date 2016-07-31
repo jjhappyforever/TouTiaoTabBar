@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTTextField.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTTextField.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTTextField.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTConvert.h \
   ../../React/Layout/Layout.h ../../React/Views/RCTAnimationType.h \
   ../../React/Views/RCTBorderStyle.h \

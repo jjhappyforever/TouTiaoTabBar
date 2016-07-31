@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \

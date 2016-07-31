@@ -1,5 +1,4 @@
-dependencies: \
-  /Users/plus/Documents/toutiao/ios/toutiaoTests/toutiaoTests.m \
+dependencies: /Users/plus/TouTiaoTabBar/ios/toutiaoTests/toutiaoTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \

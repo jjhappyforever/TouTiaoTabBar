@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
   ../../React/Base/RCTURLRequestDelegate.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \

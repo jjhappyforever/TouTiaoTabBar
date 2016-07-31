@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTTextFieldManager.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTTextFieldManager.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h \
   ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
   ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
   ../../React/Layout/Layout.h ../../React/Views/RCTAnimationType.h \
@@ -13,4 +13,4 @@ dependencies: \
   ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTJavaScriptExecutor.h \
   ../../React/Views/RCTShadowView.h ../../React/Base/RCTRootView.h \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTTextField.h
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTTextField.h

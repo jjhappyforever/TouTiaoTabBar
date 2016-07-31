@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.m \
   ../../React/Base/RCTDefines.h \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.h \
   ../../React/Base/RCTWebSocketProxy.h \
   ../../React/Base/RCTWebSocketProxyDelegate.h \
   ../../React/Base/RCTConvert.h ../../React/Layout/Layout.h \
@@ -10,4 +10,4 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
   ../../React/Views/RCTPointerEvents.h ../../React/Base/RCTUtils.h \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

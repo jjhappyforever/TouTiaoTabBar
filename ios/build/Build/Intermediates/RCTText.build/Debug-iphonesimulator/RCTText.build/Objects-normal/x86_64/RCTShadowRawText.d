@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
-  /Users/plus/Documents/toutiao/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
+  /Users/plus/TouTiaoTabBar/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \

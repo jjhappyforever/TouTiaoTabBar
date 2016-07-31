@@ -1,2 +1,2 @@
-dependencies: /Users/plus/Documents/toutiao/ios/toutiao/main.m \
-  /Users/plus/Documents/toutiao/ios/toutiao/AppDelegate.h
+dependencies: /Users/plus/TouTiaoTabBar/ios/toutiao/main.m \
+  /Users/plus/TouTiaoTabBar/ios/toutiao/AppDelegate.h
